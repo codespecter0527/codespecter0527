@@ -1,8 +1,8 @@
-# 👋 Hi there, I'm Alex Arnold
+# 👋 Hi there, I'm Piotr Kowalski
 
-Results-driven full-stack developer with 4+ years of experience in JavaScript ecosystems and CMS platforms.  
-Skilled at designing scalable architecture, improving SEO and performance, and delivering clean, testable code.  
-Strong background in Agile environments, CI/CD pipelines, REST APIs, and cross-functional collaboration.
+Senior Web Developer with 6 years of experience building high-performance applications using React, Node.js, and Django.  
+I specialize in performance optimization, scalable architecture, and mentoring dev teams to ship clean, maintainable code.  
+Proven track record: 35% faster LCP, €1M+ e-commerce platform, and 30% AWS cost savings through backend optimization.
 
 ---
 
@@ -11,104 +11,81 @@ Strong background in Agile environments, CI/CD pipelines, REST APIs, and cross-f
 <details>
 <summary>🖥️ <strong>Frontend Skills (Client-Side)</strong></summary>
 
-- **Languages**: HTML5, CSS3, JavaScript (ES6+)
-- **Frameworks/Libraries**: React.js, Vue.js, Angular
-- **Styling**: Tailwind CSS, Bootstrap, Sass/SCSS
-- **State Management**: Redux, Context API, Pinia (Vue)
-- **Build Tools**: Webpack, Vite, Babel
+- **Languages**: HTML5, CSS3, JavaScript (ES6+), TypeScript  
+- **Frameworks/Libraries**: React.js, Next.js, Vue.js  
+- **Styling**: Tailwind CSS, SCSS/SASS  
+- **State Management**: Redux, Context API  
+- **Tools**: Vite, Webpack, Lighthouse, ESLint  
 
 </details>
 
 <details>
 <summary>⚙️ <strong>Backend Skills (Server-Side)</strong></summary>
 
-- **Languages**: Node.js (JavaScript/TypeScript), PHP, Python, Ruby, Java  
-- **Frameworks**: Express.js, Laravel, Django, Spring  
-- **Authentication**: JWT, OAuth, Session-based auth  
+- **Languages**: Node.js, Python  
+- **Frameworks**: Django, Express.js, NestJS  
 - **API Design**: RESTful APIs, GraphQL  
+- **Auth**: JWT, OAuth, Session-based  
 
 </details>
 
 <details>
 <summary>🗄️ <strong>Database & Storage</strong></summary>
 
-- **Relational**: MySQL, PostgreSQL, SQL Server  
-- **NoSQL**: MongoDB, Firebase  
-- **ORM/ODM**: Sequelize, TypeORM, Prisma, Mongoose  
+- **Relational**: PostgreSQL  
+- **NoSQL**: MongoDB, Redis  
+- **ORM/ODM**: Django ORM, Mongoose  
 
 </details>
 
 <details>
-<summary>🚀 <strong>DevOps & Deployment</strong></summary>
+<summary>🚀 <strong>DevOps & Cloud</strong></summary>
 
-- **Version Control**: Git, GitHub, GitLab, Bitbucket  
-- **CI/CD**: GitHub Actions, GitLab CI, Jenkins  
-- **Hosting**: Vercel, Netlify, DigitalOcean, Heroku, AWS, Railway  
-- **Tools**: Docker, NGINX, PM2  
+- **Cloud**: AWS (EC2, S3), Vercel  
+- **Containers**: Docker, Kubernetes  
+- **CI/CD**: GitHub Actions  
+- **Other**: NGINX, PM2  
 
 </details>
 
 <details>
 <summary>🧰 <strong>Other Tools & Concepts</strong></summary>
 
-- Postman, Insomnia (API testing)  
-- WebSockets (real-time apps)  
-- CMS: WordPress, Strapi, Sanity  
-- Testing: Jest, Mocha, PHPUnit  
-- Agile, Scrum, Trello, Jira  
+- Performance profiling & code audits  
+- Agile/Scrum practices  
+- Unit & integration testing with Jest/Pytest  
+- API testing: Postman  
+- Technical mentoring & team leadership  
 
 </details>
 
 ---
 
-## 🛒 Shopify Development
+## 🧠 Key Projects & Results
 
-<details>
-<summary>🧩 <strong>Frontend</strong></summary>
+- 🧩 **React Performance Overhaul** – Reduced Largest Contentful Paint (LCP) by 35% using code splitting and memoization.  
+- 💸 **Microservice for Payments** – Node.js + Express system with 99.99% uptime, handling 500+ RPM.  
+- 📉 **Legacy Migration** – Led migration to containerized microservices (Docker + K8s) saving $8k/year on AWS.  
+- 🌐 **E-Commerce Platform** – Architected a Next.js platform processing €1M+/mo; improved mobile Lighthouse scores from 58 → 89.  
+- ♿ **Accessibility Initiative** – Launched auditing process to achieve WCAG 2.1 AA compliance.  
 
-- Liquid (Shopify templating)  
-- HTML5, CSS3, JavaScript (ES6+), SCSS/SASS  
-- AJAX & Shopify Fetch API  
-- React/Vue for headless setups or embedded apps  
+---
 
-</details>
+## 🧾 Certification & Education
 
-<details>
-<summary>⚙️ <strong>Backend & App Development</strong></summary>
+🎓 **B.Eng. in Computer Science** – UITM, Rzeszów, Poland  
+📘 **AWS Academy Graduate** – Cloud architecture & deployment  
+📚 **Thesis**: *NoSQL vs SQL for High-Traffic Web Apps* (Grade: 4.8/5)
 
-- Shopify REST & GraphQL APIs  
-- Public/Private app development (Node.js, Express.js, Next.js)  
-- Webhook handling for orders, products, customers  
-- OAuth and token authentication  
+---
 
-</details>
+## 🧠 Interests & Side Projects
 
-<details>
-<summary>💻 <strong>Tooling & DevOps</strong></summary>
-
-- Git, VS Code + Shopify extensions  
-- Postman for API testing  
-- Hosting: Heroku, Vercel, custom VPS  
-
-</details>
-
-<details>
-<summary>📈 <strong>Performance & SEO</strong></summary>
-
-- Image optimization, theme speed tuning  
-- Schema.org markup, SEO metadata best practices  
-
-</details>
-
-<details>
-<summary>🤝 <strong>Other Shopify Skills</strong></summary>
-
-- Custom checkout scripts (Shopify Plus)  
-- Multi-language/store setup  
-- Third-party integrations: email, analytics, CRMs  
-- Strong understanding of eCommerce UX/UI  
-
-</details>
+- 🛠️ Maintain open-source React performance tools  
+- 🧪 Profiling legacy codebases like Indiana Jones  
+- 📉 Cloud cost optimization (avg. 30% saved)  
+- ✍️ Technical writing & developer docs  
+- 🎸 Punk rock & RESTful APIs – both love clean interfaces  
 
 ---
 
