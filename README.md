@@ -88,9 +88,3 @@ Proven track record: 35% faster LCP, €1M+ e-commerce platform, and 30% AWS cos
 - 🎸 Punk rock & RESTful APIs – both love clean interfaces  
 
 ---
-
-## 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NovaNoodle7/snk/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
-</p>
